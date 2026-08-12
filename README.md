@@ -1,4 +1,4 @@
-# 🔬 Deep Research Log - Autonomous AI Agent
+# 🔬 Research Log - Autonomous AI Agent
 
 An end-to-end full-stack **Autonomous AI Research Agent** built with the **MERN stack** (MongoDB, Express, React, Node.js) and powered locally by **Ollama (`llama3.2:3b`)**. 
 
